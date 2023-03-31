@@ -5,4 +5,13 @@
 .list-menu {
   font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
   font-size: 15px;
+  list-style: none;
+}
+
+.main {
+  display: flexbox;
+}
+
+.main__words { 
+  font-family: 'Roboto', sans-serif;
 }
